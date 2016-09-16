@@ -1,0 +1,7 @@
+author=Tyrion
+source_folder=F:/Leetcode/
+destination_folder=F:/git/leetcode/algorithms/c
+relative_folder=./algorithm/c
+readme_addr=F:/git/leetcode/readme.md
+language=c
+git_folder=F:/git/leetcode
